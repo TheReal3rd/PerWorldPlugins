@@ -1,4 +1,3 @@
-updateChecker: true
 disabledCommandMessage: "&4[Server]: &fThis command is disabled for this world."
 
 blacklist: true
